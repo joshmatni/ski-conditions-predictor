@@ -6,8 +6,9 @@ into categories like "Powder Day," "Groomer Day," or "Poor Conditions."
 Steps:
 Data Collection:
 
-Gather historical weather data for the Tahoe area (e.g., NOAA, OpenWeatherMap API, or ski-specific sources).
-Include snowfall, temperature, wind speed, and any resort-reported condition data (like snow depth).
+Gather historical weather data for the Tahoe area - data came from: https://www.weather.gov/wrh/timeseries?site=KTVL&hours=72&units=english&chart=on&headers=on&obs=tabular&hourly=true&pview=full&font=12&history=yes&start=20240201&end=20240401
+
+WE LOVE FREE DATASETS
 
 Data Processing:
 
